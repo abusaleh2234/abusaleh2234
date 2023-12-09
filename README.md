@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abu Saleh
 
-<div align="center"> <img src="https://raw.githubusercontent.com/abusaleh2234/abusaleh2234/main/assets/header/banner/github-header-image.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/abusaleh2234/abusaleh2234/main/assets/header/banner/branding%20copy12.png"> </div>
 
 
 
