@@ -1,6 +1,8 @@
-![Header](https://raw.githubusercontent.com/abusaleh2234/abusaleh2234/main/assets/header/banner/github-header-image.png)
+### Hi there 👋 I'm Abu Saleh
 
-### Hi there 👋
+<div align="center"> <img src="https://raw.githubusercontent.com/abusaleh2234/abusaleh2234/main/assets/header/banner/github-header-image.png"> </div>
+
+
 
 
 **abusaleh2234/abusaleh2234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
